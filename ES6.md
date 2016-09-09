@@ -2,13 +2,14 @@
 
 TOC:
 
-Classes
-Arrow Functions
-Template Strings
-Inheritance
-Constants
-Block Scoped Variables
-...spread
-...rest
-Destructuring
-Modules
+* Classes
+* Arrow Functions
+* Template Strings
+* Inheritance
+* Constants
+* Block Scoped Variables
+* ...spread
+* ...rest
+* Destructuring
+* Modules
+* etc.
