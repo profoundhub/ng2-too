@@ -2,7 +2,7 @@
 
 TOC:
 
-* Classes
+* [Classes](https://github.com/profoundhub/ng2-too/blob/Daniel/es6-classes.js)
 * Arrow Functions
 * Template Strings
 * Inheritance
